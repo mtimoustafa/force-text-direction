@@ -2,7 +2,7 @@
   "name": "force-text-direction",
   "author": "Robert (CMoses) Kalamanski",
   "main": "./lib/force-text-direction",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "Force text direction",
   "keywords": [
     "ltr",
