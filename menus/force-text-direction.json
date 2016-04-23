@@ -1,0 +1,26 @@
+{
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "Force Text Direction",
+          "submenu": [
+            {
+              "label": "Force LTR direction",
+              "command": "force-text-direction:forceLTR"
+            },
+            {
+              "label": "Force RTL direction",
+              "command": "force-text-direction:forceRTL"
+            },
+            {
+              "label": "Default text direction (disable)",
+              "command": "force-text-direction:disable"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

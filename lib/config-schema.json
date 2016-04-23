@@ -1,0 +1,10 @@
+{
+	"enabled": {
+		"type": "boolean",
+		"default": false
+	},
+	"forceDirection": {
+		"type": "string",
+		"default": "LTR"
+	}
+}

@@ -1,0 +1,53 @@
+@import "ui-variables";
+
+atom-pane-container atom-pane {
+
+	/**
+	 *
+	 * Default styles.
+	 *
+	 **/
+	div.item-views atom-text-editor {
+
+		border-left: 1px solid rgb(0, 47, 59);
+
+		.editor-contents .lines {
+				border-left:  1px solid rgb(0, 43, 54);
+				border-right: 1px solid rgb(0, 43, 54);
+		}
+
+	}
+
+	/**
+	 *
+	 * Force LTR style.
+	 *
+	 **/
+	div.item-views.force-text-direction-ltr atom-text-editor {
+
+		border-left: 1px solid rgb(220, 50, 47);
+
+	 	.editor-contents .lines .line {
+			direction: ltr;
+			unicode-bidi: bidi-override;
+		}
+
+	}
+
+	/**
+	*
+	* Force RTL style.
+	*
+	**/
+	div.item-views.force-text-direction-rtl atom-text-editor {
+
+		border-right: 1px solid rgb(220, 50, 47);
+
+		.editor-contents .lines .line {
+			direction: rtl;
+			unicode-bidi: bidi-override;
+		}
+
+	}
+
+}

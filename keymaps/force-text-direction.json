@@ -1,0 +1,6 @@
+{
+  "atom-workspace": {
+    "ctrl-alt-left":  "force-text-direction:forceLTR",
+    "ctrl-alt-right": "force-text-direction:disable"
+  }
+}
