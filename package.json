@@ -1,11 +1,25 @@
 {
   "name": "force-text-direction",
   "main": "./lib/force-text-direction",
-  "version": "0.0.0",
-  "description": "A short description of your package",
+  "version": "0.1.0",
+  "description": "Force text direction",
   "keywords": [
+    "LTR",
+    "RTL",
+    "text",
+    "direction",
+    "force",
+    "override",
+    "hebrew"
   ],
-  "repository": "https://github.com/atom/force-text-direction",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cmosespl/force-text-direction.git"
+  },
+  "bugs": {
+    "url": "https://github.com/cmosespl/force-text-direction/issues"
+  },
+  "repository": "",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
