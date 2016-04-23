@@ -2,7 +2,7 @@
   "name": "force-text-direction",
   "author": "CMosesPL",
   "main": "./lib/force-text-direction",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Force text direction",
   "keywords": [
     "ltr",
@@ -24,6 +24,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
