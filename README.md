@@ -1,4 +1,4 @@
-# text-direction-override package
+# force-text-direction package
 
 This package allows to force text direction for right to left written languages like Hebrew.
 
