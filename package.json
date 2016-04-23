@@ -3,7 +3,7 @@
   "main": "./lib/force-text-direction",
   "version": "0.1.0",
   "description": "Force text direction",
-  "author": "Robert (CMosesPL) Kalamanski <suns.echoes@gmail.com>",
+  "owner": "Robert (CMosesPL) Kalamanski <suns.echoes@gmail.com>",
   "keywords": [
     "LTR",
     "RTL",
