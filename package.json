@@ -1,12 +1,12 @@
 {
   "name": "force-text-direction",
+  "author": "CMosesPL",
   "main": "./lib/force-text-direction",
   "version": "0.1.0",
   "description": "Force text direction",
-  "author": "CMosesPL",
   "keywords": [
-    "LTR",
-    "RTL",
+    "ltr",
+    "rtl",
     "text",
     "direction",
     "force",
@@ -20,7 +20,6 @@
   "bugs": {
     "url": "https://github.com/cmosespl/force-text-direction/issues"
   },
-  "repository": "",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
