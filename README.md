@@ -1,5 +1,7 @@
 # force-text-direction package
 
+_Originally by Robert Kałamański. I forked this and then the original repo was deleted._
+
 This package allows to force text direction for right to left written languages like Hebrew.
 
 # hot-keys
